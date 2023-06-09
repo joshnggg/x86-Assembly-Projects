@@ -1,3 +1,11 @@
+#Prompt the user for input values:
+#Value for x
+#Value for y
+#Given the values provided by the user:
+#If x > y then display the message “x > y”
+#Otherwise, display the message “x <= y”
+#Exit and return 0
+
 .data
 prompt_x:
     .string "Enter the value for x: \n"
