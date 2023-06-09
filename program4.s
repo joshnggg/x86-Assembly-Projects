@@ -1,3 +1,10 @@
+#Prompt the user for input values:
+#Slope, m
+#Y-intercept, b
+#Value for x
+#Given the values provided by the user, calculate the corresponding value for y using the linear equation slope-intercept form, y = mx + b
+#Display the resulting value for y
+#Exit and return 0
 .data
 ask_slope:
     .string "Input a slope, m: "
