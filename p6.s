@@ -1,3 +1,14 @@
+#Prompt the user for input values:
+#Value for x
+#Value for y
+#Given the values provided by the user:
+#Call a procedure to calculate the sum x + y
+#Display the resulting sum
+#Call a procedure to calculate the difference x – y
+#Display the resulting difference
+#Call a procedure to calculate the product x * y
+#Display the resulting product
+#Exit and return 0
 .data
 prompt_x:
     .string "Enter the value for x: "
