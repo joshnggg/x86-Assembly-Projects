@@ -1,3 +1,8 @@
+#Develop assembly code that will do the following:
+#Initialize an integer array with four values: 1, 1, 2, 3
+#In a loop, add the sum of the array elements
+#After the loop ends, display the resulting sum
+#Exit and return 0
 .data
 #intialize array of long
 IntArray:
